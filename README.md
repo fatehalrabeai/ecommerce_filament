@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/fateh-alrabeai-901a0a333/" target="_blank"><img width="200" src="https://texsasoil.com/img/logo/fateh.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/fateh-alrabeai-901a0a333/" target="_blank"><img width="150" src="https://texsasoil.com/img/logo/fateh.png" width="400" alt="Laravel Logo"></a></p>
 
 
 ## Ecommerce Filament
@@ -9,7 +9,7 @@ I created this repository for learning purposes.
 
 ```bash
 git clone git@github.com:fatehalrabeai/ecommerce_filament.git
-cd your-repo-name
+cd ecommerce_filament
 Install Dependencies
 ```
 
