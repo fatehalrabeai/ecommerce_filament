@@ -8,7 +8,7 @@ I created this repository for learning purposes.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone git@github.com:fatehalrabeai/ecommerce_filament.git
 cd your-repo-name
 Install Dependencies
 ```
