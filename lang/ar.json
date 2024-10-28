@@ -1,0 +1,97 @@
+{
+
+    "Name": "الإسم",
+    "Image name": "الصورة",
+    "Status": "حالة العرض",
+    "Slug": "رابط SEO",
+    "Created from": "تاريخ الإضافة من ",
+    "Created until": "تاريخ الإضافة حتى ",
+
+    "Brand": "علامة التجارية",
+    "Brands": "العلامات التجارية",
+    "BrandManagement": "إدارة العلامات التجارية",
+
+    "Category": "فئة المنتج",
+    "Parent": "تفرع الفئات",
+    "category": "فئة المنتج",
+    "Category id": "فئة المنتج",
+    "CategoryImage": "صورة الفئة",
+    "Categories": "فئات المنتجات",
+    "BrandInfo": "بيانات الفئة",
+    "Cover image": "صورة الغلاف",
+    "Parent category": "الفئة الرئيسية",
+
+    "Coupon": "الكوبون",
+    "Coupons": "الكوبونات",
+
+    "ProductManagement": "إدارة المنتجات",
+    "Product": "المنتج",
+    "Products": "المنتجات",
+    "Brief": "وصف قصير",
+    "Description": "الوصف",
+    "SKU": "رقم الصنف",
+    "Product Name": "اسم المنتج",
+    "Product Details": "وصف المنتج",
+    "Fill product name": "قم بتعبئة بيانات المنتج",
+    "Product created": "تم إنشاء المنتج بنجاح",
+    "Product Pricing": "تسعير المنتج",
+    "Product Images": "صور المنتج",
+    "Generate SKU": "توليد تلقائي",
+
+    "Product Attributes": "خصائص المنتجات",
+    "Attributes": "خصائص",
+    "Attribute": "خاصية",
+    "Attribute Values": "قيم خصائص المنتجات",
+
+    "SystemManagement": "إدارة النظام",
+    "User": "المستخدمون",
+    "Users": "المستخدمون",
+
+    "Country": "الدولة",
+    "CountryName": "اسم الدولة",
+    "Country Name": "اسم الدولة",
+    "Countries": "الدول",
+    "Country Info": "تفاصيل الدولة",
+
+    "City": "المدينة",
+    "CityName": "اسم المدينة",
+    "Cities": "المدن",
+
+    "District": "المديرية",
+    "DistrictName": "اسم المديرية",
+    "Districts": "المديريات",
+
+    "Zone": "النطاق",
+    "ZoneName": "اسم النطاق",
+    "Zones": "النطاقات",
+
+    "Storage": "المخزن",
+    "Storages": "المخازن",
+
+    "Price": "السعر",
+    "Discount": "التخفيض",
+
+    "ExpiryData": "تاريخ الانتهاء",
+
+    "Ar name": "الاسم العربي",
+    "En name": "الاسم الانجليزي",
+
+    "Customer name": "اسم الزبون",
+    "Total price": "مجموع الطلب",
+    "Ordered at": "تاريخ الطلب",
+    "Order": "الطلب",
+    "Orders": "الطلبات",
+    "All": "الكل",
+    "Order Status": "حالة الطلب",
+    "OrderManagement": "إدارة الطلبات",
+    "Pending Orders": "بانتظار الموافقة",
+    "Processing Orders": "قيد التجهيز",
+    "Shipped Orders": "قيد التوصيل",
+    "Delivered Orders": "تم التسليم",
+
+    "Pending": "بانتظار الموافقة",
+    "Processing": "قيد التجهيز",
+    "Shipped": "قيد التوصيل",
+    "Delivered": "تم التسليم",
+    "Returned": "مرتجع"
+}
