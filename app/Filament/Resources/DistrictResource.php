@@ -28,7 +28,7 @@ class DistrictResource extends Resource
     }
     public static function getNavigationGroup(): string
     {
-        return __('SystemManagement');
+        return __('System Management');
     }
 
     protected static ?int $navigationSort = 3;

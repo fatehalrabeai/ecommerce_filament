@@ -34,7 +34,7 @@ class BrandResource extends Resource
 
     public static function getNavigationGroup(): string
     {
-        return __('ProductManagement');
+        return __('Product Management');
     }
 
     public static function form(Form $form): Form

@@ -9,7 +9,6 @@
 
     "Brand": "علامة التجارية",
     "Brands": "العلامات التجارية",
-    "BrandManagement": "إدارة العلامات التجارية",
 
     "Category": "فئة المنتج",
     "Parent": "تفرع الفئات",
@@ -24,7 +23,7 @@
     "Coupon": "الكوبون",
     "Coupons": "الكوبونات",
 
-    "ProductManagement": "إدارة المنتجات",
+    "Product Management": "إدارة المنتجات",
     "Product": "المنتج",
     "Products": "المنتجات",
     "Brief": "وصف قصير",
@@ -43,7 +42,7 @@
     "Attribute": "خاصية",
     "Attribute Values": "قيم خصائص المنتجات",
 
-    "SystemManagement": "إدارة النظام",
+    "System Management": "إدارة النظام",
     "User": "المستخدمون",
     "Users": "المستخدمون",
 
@@ -83,7 +82,7 @@
     "Orders": "الطلبات",
     "All": "الكل",
     "Order Status": "حالة الطلب",
-    "OrderManagement": "إدارة الطلبات",
+    "Order Management": "إدارة الطلبات",
     "Pending Orders": "بانتظار الموافقة",
     "Processing Orders": "قيد التجهيز",
     "Shipped Orders": "قيد التوصيل",

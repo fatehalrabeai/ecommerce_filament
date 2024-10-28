@@ -29,7 +29,7 @@ class OrderResource extends Resource
 
 //    public static function getNavigationGroup(): string
 //    {
-//        return __('OrderManagement');
+//        return __('Order Management');
 //    }
 
     public static function getModelLabel(): string
