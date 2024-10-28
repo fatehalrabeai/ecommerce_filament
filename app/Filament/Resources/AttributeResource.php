@@ -35,36 +35,36 @@ class AttributeResource extends Resource
     public static function form(Form $form): Form
     {
         return $form->schema([
-            Forms\Components\Section::make('Attribute Information')
+            Forms\Components\Section::make(__('Attribute Information'))
                 ->schema([
                     TextInput::make('name')
 
                         ->translateLabel()
-                        ->label('Attribute Name')
+                        ->label(__('Attribute Name'))
                         ->required()
                         ->maxLength(255),
 
                     Select::make('field_type')
-                        ->label('Field Type')
+                        ->label(__('Field Type'))
                         ->required()
                         ->options([
-                            'text' => 'Text',
-                            'number' => 'Number',
-                            'select' => 'Select',
-                            'checkbox' => 'Checkbox',
-                            'radio' => 'Radio',
-                            'color' => 'Color',
+                            'text' => __('Text'),
+                            'number' => __('Number'),
+                            'select' => __('Select'),
+                            'checkbox' => __('Checkbox'),
+                            'radio' => __('Radio'),
+                            'color' => __('Color'),
                         ])
                         ->reactive()
                         ->afterStateUpdated(fn (callable $set) => $set('values', [])), // Clear values when field type changes
 
                     // Conditionally display the Repeater for attributes with selectable values
                     Repeater::make('values')
-                        ->label('Attribute Values')
+                        ->label(__('Attribute Values'))
                         ->relationship('values') // Link to AttributeValue model
                         ->schema([
                             TextInput::make('value')
-                                ->label('Value')
+                                ->label(__('Value'))
                                 ->required()
                                 ->maxLength(255),
                         ])

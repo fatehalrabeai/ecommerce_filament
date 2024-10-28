@@ -40,7 +40,17 @@
     "Product Attributes": "خصائص المنتجات",
     "Attributes": "خصائص",
     "Attribute": "خاصية",
+    "Attribute Name": "اسم الخاصية",
+    "Field Type": "نوع الحقل",
+    "Attribute Information": "معلومات الخاصية",
     "Attribute Values": "قيم خصائص المنتجات",
+
+    "Text" : "نص",
+    "Number" : "رقم",
+    "Select" : "اختيار",
+    "Checkbox" : "خانة اختيار",
+    "Radio" : "زر اختيار",
+    "Color" : "لون",
 
     "System Management": "إدارة النظام",
     "User": "المستخدمون",
