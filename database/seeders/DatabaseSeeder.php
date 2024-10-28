@@ -27,7 +27,6 @@ class DatabaseSeeder extends Seeder
             CitySeeder::class,
             CategorySeeder::class,
             BrandSeeder::class,
-            // Optionally seed other dependencies here
         ]);
 
         // Create some users
